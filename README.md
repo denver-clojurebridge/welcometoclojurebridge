@@ -4,6 +4,8 @@ A sample app to test your install for ClojureBridge
 
 ## Usage
 
+Nightcode - open `core.clj` click "Run with REPL". Follow the REPL instructions below.
+
 LightTable - open `core.clj` and press `Ctrl+Shift+Enter` to evaluate the file.
 
 Emacs - run cider, open `core.clj` and press `C-c C-k` to evaluate the file.
