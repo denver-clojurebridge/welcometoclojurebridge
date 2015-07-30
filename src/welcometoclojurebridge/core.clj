@@ -11,7 +11,7 @@
   (q/text-font (q/create-font "resources/SourceCodePro-Regular.ttf" 36 true))
 
   {:logo (q/load-image "logo.png")
-   :background (q/load-image "background.png")
+   :background (q/load-image "denver-background.png")
    :color 0
    :angle 0})
 
@@ -36,7 +36,7 @@
 
 (q/defsketch welcometoclojurebridge
   :title "Welcome To ClojureBridge!"
-  :size [650 500]
+  :size [718 376]
   :setup setup
   :update update-state
   :draw draw-state
